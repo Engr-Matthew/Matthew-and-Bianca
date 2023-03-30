@@ -1,0 +1,10 @@
+#nav-bar {
+        top:0px;
+        position: fixed;
+        
+
+}
+#nav-bar li{
+        display: inline;
+    
+}
